@@ -1,0 +1,2 @@
+# MegaBlog
+Custom Blog application 
